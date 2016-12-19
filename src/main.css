@@ -1,0 +1,22 @@
+body{
+	color:white;
+	background-color: deeppink;
+	padding-left: 30px;
+}
+h1{
+	font-size: 45px;
+	color: deepskyblue;
+}
+h2{
+	font-size: 30px;
+	color: lightskyblue;
+}
+h3{
+	font-size: 23px;
+}
+ul{
+}
+
+a{
+	color: yellow;
+}
